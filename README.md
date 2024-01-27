@@ -1,4 +1,5 @@
 Este jogo, feito utilizando a linguagem Batch, do próprio prompt de comando do Windows, foi inspirado pelo jogo "Lemonade Stand", originalmente criado em 1983 para máquinas mainframe e em 1989 para máquinas Apple II, e minha ideia foi se basear nesse jogo para criar algo melhorado, e até consegui. Mas perdi o interesse em continuar, então depois de 1 ano e meio de ter criado minha última versão do jogo, estou disponibilizando publicamente esse programa.
+
 Dicas do jogo:
 
 O jogo começa em um dia ensolarado, você tem apenas R$2 na carteira, cada limonada custa 5 centavos, e esse preço sobe com o tempo.
